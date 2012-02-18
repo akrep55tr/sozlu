@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>DATA/Simge/ayarlar.png</file>
+        <file>DATA/Simge/bil.png</file>
+        <file>DATA/Simge/dene.png</file>
+        <file>DATA/Simge/font.png</file>
+        <file>DATA/Simge/hak.png</file>
+        <file>DATA/Simge/kapat.png</file>
+        <file>DATA/Simge/pause.png</file>
+        <file>DATA/Simge/renk.png</file>
+        <file>DATA/Simge/sessiz.png</file>
+        <file>DATA/Veri/10 T1 i1 Alışkanlıklar.txt</file>
+        <file>DATA/Veri/10 T1 i2 Hobiler.txt</file>
+        <file>DATA/Veri/10 T1 i3 Fobiler.txt</file>
+        <file>DATA/Veri/11 T1 i1 Sinema.txt</file>
+        <file>DATA/Veri/11 T1 i2 Müzik.txt</file>
+        <file>DATA/Veri/Genel.txt</file>
+        <file>DATA/Veri/11 T1 i3 Film Yapımı.txt</file>
+    </qresource>
+</RCC>

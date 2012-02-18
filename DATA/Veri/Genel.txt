@@ -1,0 +1,55 @@
+1 What is your favourite colour?
+2 What is your favourite team?
+3 What is your favourite hobby?
+4 Who is your best friend?
+5 What is your favourite lesson?
+6 Talk about your family
+7 Talk about your friends
+8 Talk about your lessons
+9 Talk about your teachers
+10 Talk about exams
+11 Do you like listening to music? What kind of?
+12 Do you like watching films? What kind of?
+13 Talk about your hobbies
+14 Do you like facebook? Why, why not?
+15 What is your most expensive hobby?
+16 What is your cheapest hobby?
+17 Do you help your mother / father in the house?
+18 Which part of English do you like, reading, writting, speaking, listening?
+19 Do you like reading books? What kind of book?
+20 Do you like sports? What kind of?
+21 What are your hobbies?
+22 Do you enjoy indoor or outdoor activities?  Why?
+23 What is the strangest hobby you have heard about ?
+24 What hobbies do you think are boring and a waste of time ?
+25 Would you like to try something dangerous as a hobby, like skydiving? Why/not?
+26 Would you like to try something quiet as a hobby, like chess? Why/not?
+27 How often do you do your hobby? Is this enough? Please explain.
+28 What were your hobbies when you were younger?
+29 What hobby or would you never want to try someday? Why don't you want to try it?
+30 Say your hobbies from most interesting to least interesting?
+31 Can you think of any strange hobbies? Why are these hobbies strange?
+32 Does your best friend, boy/girlfriend  have the same hobbies as you? 
+33 What is your favorite winter hobby?
+34 What is your favorite indoor hobby?
+35 What is your favorite outdoor hobby?
+36 What is your most important hobby?
+37 What is your favourite film?
+38 What is your favourite song?
+39 Who is your favourite singer?
+40 Who is your favourite actor?
+41 Who is your favourite actress?
+42 What kind of films do you like?
+43 What kind of songs do you like?
+44 Do you prefer going to the theathre or cinema?
+45 What is the best movie you've ever seen?
+46 What is the worst movie you've ever seen?
+47 Have you ever watched a play in the theathre?
+48 What is the first film you've watched in the cinema?
+49 What is your favourite tv programme?
+50 What is your favourite food?
+51 Who is your favourite football player?
+52 Who is your favourite basketball player?
+53 Who is your favourite volleyball player?
+54 How often do you watch tv?
+55 How long do you study lesson in a day?

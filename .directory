@@ -1,0 +1,8 @@
+[Dolphin]
+AdditionalInfoV2=CustomizedDetails,Details_Size,Details_Permissions,Details_Type
+Timestamp=2012,2,18,20,23,8
+Version=2
+ViewMode=1
+
+[Settings]
+ShowDotFiles=true

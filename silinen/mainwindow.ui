@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>418</width>
+    <height>235</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Speaking</string>
+  </property>
+  <property name="windowIcon">
+   <iconset resource="rc.qrc">
+    <normaloff>:/DATA/Simge/bil.png</normaloff>:/DATA/Simge/bil.png</iconset>
+  </property>
+  <widget class="QWidget" name="centralWidget">
+   <layout class="QGridLayout" name="gridLayout">
+    <item row="0" column="0" colspan="3">
+     <layout class="QVBoxLayout" name="verticalLayout">
+      <item>
+       <layout class="QFormLayout" name="formLayout">
+        <item row="0" column="0">
+         <widget class="QComboBox" name="comboBox">
+          <item>
+           <property name="text">
+            <string>Bölüm seçiniz!</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>10 T1 i1 Alışkanlıklar</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>10 T1 i2 Hobiler</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>10 T1 i3 Fobiler</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>11 T1 i1 Sinema</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>11 T1 i2 Müzik</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>11 T1 i3 Film Yapımı</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>Genel</string>
+           </property>
+          </item>
+         </widget>
+        </item>
+        <item row="0" column="1">
+         <widget class="QLabel" name="label_sinif">
+          <property name="font">
+           <font>
+            <pointsize>10</pointsize>
+           </font>
+          </property>
+          <property name="text">
+           <string>Başlamak için bölüm seçmelisiniz!</string>
+          </property>
+         </widget>
+        </item>
+        <item row="1" column="0">
+         <widget class="QPushButton" name="S_S_Button">
+          <property name="text">
+           <string>Soru Sayısı</string>
+          </property>
+          <property name="icon">
+           <iconset resource="rc.qrc">
+            <normaloff>:/DATA/Simge/hak.png</normaloff>:/DATA/Simge/hak.png</iconset>
+          </property>
+         </widget>
+        </item>
+        <item row="1" column="1">
+         <widget class="QLabel" name="label">
+          <property name="font">
+           <font>
+            <pointsize>10</pointsize>
+           </font>
+          </property>
+          <property name="text">
+           <string>Soru sayısı giriniz!</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item>
+       <layout class="QHBoxLayout" name="horizontalLayout">
+        <item>
+         <widget class="QLabel" name="label_soru">
+          <property name="font">
+           <font>
+            <pointsize>16</pointsize>
+           </font>
+          </property>
+          <property name="text">
+           <string>TextLabel</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QLabel" name="label_soru_no">
+          <property name="font">
+           <font>
+            <pointsize>10</pointsize>
+           </font>
+          </property>
+          <property name="text">
+           <string>TextLabel</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+     </layout>
+    </item>
+    <item row="1" column="0">
+     <widget class="QPushButton" name="secButton">
+      <property name="text">
+       <string>Seç</string>
+      </property>
+      <property name="icon">
+       <iconset resource="rc.qrc">
+        <normaloff>:/DATA/Simge/dene.png</normaloff>:/DATA/Simge/dene.png</iconset>
+      </property>
+     </widget>
+    </item>
+    <item row="1" column="1">
+     <spacer name="horizontalSpacer">
+      <property name="orientation">
+       <enum>Qt::Horizontal</enum>
+      </property>
+      <property name="sizeHint" stdset="0">
+       <size>
+        <width>235</width>
+        <height>20</height>
+       </size>
+      </property>
+     </spacer>
+    </item>
+    <item row="2" column="0" colspan="2">
+     <spacer name="horizontalSpacer_2">
+      <property name="orientation">
+       <enum>Qt::Horizontal</enum>
+      </property>
+      <property name="sizeHint" stdset="0">
+       <size>
+        <width>316</width>
+        <height>20</height>
+       </size>
+      </property>
+     </spacer>
+    </item>
+    <item row="2" column="2">
+     <widget class="QPushButton" name="kapatButton">
+      <property name="text">
+       <string>Kapat</string>
+      </property>
+      <property name="icon">
+       <iconset resource="rc.qrc">
+        <normaloff>:/DATA/Simge/kapat.png</normaloff>:/DATA/Simge/kapat.png</iconset>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menuBar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>418</width>
+     <height>26</height>
+    </rect>
+   </property>
+   <property name="layoutDirection">
+    <enum>Qt::RightToLeft</enum>
+   </property>
+   <widget class="QMenu" name="menuAyarlar">
+    <property name="title">
+     <string>Ayarlar</string>
+    </property>
+    <addaction name="actionFont"/>
+    <addaction name="actionYaz_Rengi"/>
+   </widget>
+   <widget class="QMenu" name="menuHakk_nda">
+    <property name="title">
+     <string>Hakkında</string>
+    </property>
+    <addaction name="actionQtHakknda"/>
+    <addaction name="actionLisans"/>
+   </widget>
+   <addaction name="menuHakk_nda"/>
+   <addaction name="menuAyarlar"/>
+  </widget>
+  <widget class="QStatusBar" name="statusBar"/>
+  <action name="actionFont">
+   <property name="icon">
+    <iconset resource="rc.qrc">
+     <normaloff>:/DATA/Simge/font.png</normaloff>:/DATA/Simge/font.png</iconset>
+   </property>
+   <property name="text">
+    <string>Font</string>
+   </property>
+  </action>
+  <action name="actionYaz_Rengi">
+   <property name="icon">
+    <iconset resource="rc.qrc">
+     <normaloff>:/DATA/Simge/renk.png</normaloff>:/DATA/Simge/renk.png</iconset>
+   </property>
+   <property name="text">
+    <string>Yazı Rengi</string>
+   </property>
+  </action>
+  <action name="actionQtHakknda">
+   <property name="text">
+    <string>Qt Hakkında</string>
+   </property>
+  </action>
+  <action name="actionLisans">
+   <property name="text">
+    <string>Lisans</string>
+   </property>
+  </action>
+  <action name="actionListe">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Liste</string>
+   </property>
+  </action>
+  <action name="actionListe1">
+   <property name="text">
+    <string>Liste1</string>
+   </property>
+  </action>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources>
+  <include location="rc.qrc"/>
+ </resources>
+ <connections>
+  <connection>
+   <sender>kapatButton</sender>
+   <signal>clicked()</signal>
+   <receiver>MainWindow</receiver>
+   <slot>close()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>340</x>
+     <y>188</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>255</x>
+     <y>175</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+</ui>
